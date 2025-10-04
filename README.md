@@ -13,7 +13,6 @@ Objetivo: RFM, K-Means para segmentación y análisis temporal de clientes.
 3️⃣ Sprint 3 - Music Streaming: Descripción y preprocesamiento por ciudad
 Herramientas: Python, Pandas, Matplotlib
 Objetivo: Explorar hábitos de escucha en Springfield y Shelbyville; EDA y preprocesamiento.
-Dataset: /datasets/music_project_en.csv
 
 4️⃣ Sprint 4 - Instacart: Limpieza y análisis de hábitos de compra
 Herramientas: Python, Pandas, Matplotlib
